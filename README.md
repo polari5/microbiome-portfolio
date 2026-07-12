@@ -1,4 +1,3 @@
-# microbiome-portfolio
 # Microbiome Portfolio
 
 경희대학교 식품생명공학과 학부 연구생.
