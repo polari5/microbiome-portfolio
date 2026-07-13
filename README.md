@@ -42,3 +42,5 @@ scikit-learn을 이용해 형태 측정값으로 품종을 예측하는 분류 �
 **의의**
 동일한 구조를 마이크로바이옴 데이터에 적용하면, 균 조성으로 질병군을 예측하고
 어떤 균이 핵심 바이오마커인지 도출하는 분석이 됩니다.
+## 사용 도구
+Python · pandas · seaborn · matplotlib · scikit-learn · Jupyter Notebook
