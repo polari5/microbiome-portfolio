@@ -25,8 +25,7 @@ Python 기초부터 데이터 분석·시각화까지의 학습 과정을 정리
 - 품종(species)별 꽃잎·꽃받침 크기 비교 (groupby)
 - 산점도를 통해 품종 간 형태적 차이가 뚜렷하게 구분됨을 확인
 
-## 사용 도구
-Python · pandas · seaborn · matplotlib · Jupyter Notebook
+
 ### 02. 머신러닝 — Iris 품종 분류 모델
 [`01_python-basics.ipynb`](01_python-basics.ipynb) (동일 노트북 후반부)
 
